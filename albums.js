@@ -471,8 +471,8 @@ const DATA = [
   { "t": "The romantic", "a": "Bruno Mars", "y": 2026, "g": "R&B Contemp.", "n": "USA", "v": null },
   { "t": "Locket", "a": "Madison Beer", "y": 2026, "g": "Pop", "n": "USA", "v": null },
   { "t": "Oh yeah?", "a": "Steve Lacy", "y": 2026, "g": "R&B Contemp.", "n": "USA", "v": null },
-  { "t": "Discovery", "a": "Daft Punk", "y": 2001, "g": "Disco", "n": "Francia", "v": 8 },
-  { "t": "Random Access Memory", "a": "Daft Punk", "y": 2013, "g": "Funk", "n": "Francia", "v": null },
+  { "t": "Discovery", "a": "Daft Punk", "y": 2001, "g": "Disco", "n": "Francia", "v": 8.4 },
+  { "t": "Random Access Memory", "a": "Daft Punk", "y": 2013, "g": "Funk", "n": "Francia", "v": 8.4 },
   { "t": "Revelation", "a": "Timmy Trumpet", "y": 2026, "g": "EDM", "n": "Australia", "v": null },
   { "t": "Sunshine", "a": "Jungle", "y": 2026, "g": "Soul", "n": "Regno Unito", "v": null }
 ];
